@@ -1,0 +1,12 @@
+# ninja log v5
+0	10421	1713961509661966867	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/ball_query.o	d549bc9c0897324b
+0	10612	1713961509853980319	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/interpolate.o	6a71e2ca5f6d465c
+10442	19765	1713961519002619493	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/ball_query_gpu.o	734bff1633f3e786
+10614	22530	1713961521774812542	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/bindings.o	db5b90716cfc3394
+19766	30250	1713961529495348692	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/cylinder_query.o	6c705237f4c8db60
+22530	31893	1713961531131462035	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/cylinder_query_gpu.o	138355d00a8b0df1
+30252	40803	1713961540044077778	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/group_points.o	c22cb8fc1d9f2a56
+31895	41143	1713961540380100936	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/group_points_gpu.o	f31eb79fab276f94
+40806	50117	1713961549344717391	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/interpolate_gpu.o	fa65f0f3daa8f781
+41144	51651	1713961550892823574	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/sampling.o	e148b94e5b9fc169
+50119	59772	1713961559001378433	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/pointnet2/build/temp.linux-x86_64-3.9/_ext_src/src/sampling_gpu.o	dbeff1c63df86a69

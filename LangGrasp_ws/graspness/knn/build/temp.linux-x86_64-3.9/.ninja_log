@@ -1,0 +1,4 @@
+# ninja log v5
+1	554	1713961576342558041	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/knn/build/temp.linux-x86_64-3.9/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/knn/src/cuda/knn.o	f0734ff0bdff99d4
+0	9751	1713961585539179918	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/knn/build/temp.linux-x86_64-3.9/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/knn/src/cpu/knn_cpu.o	5c7d6ba73da2bdac
+554	14492	1713961590275499224	/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/knn/build/temp.linux-x86_64-3.9/home/wwq/Downloads/practice/graspness_ws/graspness_implementation/knn/src/vision.o	1ef256516879c4c0
